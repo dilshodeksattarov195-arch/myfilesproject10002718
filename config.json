@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpave",
+        "uuid": 22586580,
+        "checksum": "op6xm8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
